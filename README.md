@@ -1,13 +1,8 @@
 # Hi, I'm Aung Kyaw Thet
 
-### Web Developer @ Softcomm Tech - KMD Group of Companies
+### software developer
 
 > Build fast. Scale smart. Ship with confidence
-
-## About Me
-
-- Studying **System Design**
-- Learning **Type Script**
 
 ## GitHub Stats
 
@@ -15,26 +10,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aungkyawthex&show_icons=true" alt="aungkyawthex's GitHub stats" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aungkyawthex&layout=compact" alt="aungkyawthex's top languages" />
-</p>
-<p>
   <img src="https://streak-stats.demolab.com/?user=aungkyawthex" alt="aungkyawthex's streak" />
 </p>
 
-## Projects
+## Skills
 
-- **readme-forge**: plain text to markdown readme converter for GitHub profiles
-
-## Experience
-
-- **Internship** @ Softcomm (March 2025 - April 2025)
-- **Web Developer** @ Softcomm (June 2025 - current)
-
-## Education & Certifications
-
-- **Level 5 Diploma in Computing** — University of Greenwich (2025 - 2026)
-- **Level 4 Diploma in Computing** — University of Greenwich (2023 - 2024)
-- **High School Diploma** — Department of Basic Education (2023)
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,react,kotlin" alt="Skills" />
+</p>
 
 ## Connect with me
 
@@ -44,8 +27,9 @@
   <a href="mailto:akthet2005%40gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-## Interests
+## About Me
 
-`code` · `football` · `reading` · `blogging`
+- Currently working on **real-world projects**
+- Studying **Data Structures and Algorithms**
 
 <img src="https://komarev.com/ghpvc/?username=aungkyawthex&label=Profile%20views" alt="profile views" />
