@@ -13,7 +13,7 @@
 ## Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,react,kotlin" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,react,kotlin,javascript,html,css,tailwind,bootstrap,git,figma" alt="Skills" />
 </p>
 
 ## Connect with me
