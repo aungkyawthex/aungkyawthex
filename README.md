@@ -7,9 +7,6 @@
 ## GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=aungkyawthex&show_icons=true" alt="aungkyawthex's GitHub stats" />
-</p>
-<p>
   <img src="https://streak-stats.demolab.com/?user=aungkyawthex" alt="aungkyawthex's streak" />
 </p>
 
