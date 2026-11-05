@@ -24,9 +24,3 @@
   <a href="https://aungkyawth3t-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-5B21B6?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:akthet2005%40gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
-## GitHub Stats
-
-<p>
-  <img src="https://streak-stats.demolab.com/?user=aungkyawthex" alt="aungkyawthex's streak" />
-</p>
